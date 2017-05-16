@@ -19,7 +19,7 @@ Note: You should **not** touch the HTML. You *may* change names, texts, and imag
 
 1. Press `fork` at the top of this page.
 2. clone the forked repository to your computer (`git clone <your repo>`)
-3. create a file in `styles/` called `style.css`
+3. create a file in `style/` called `style.css`
 4. Open this file in your text editor (VScode, Atom, Sublime...)
 5. Open `index.html` in your browser
 6. Begin implementing the styles!
@@ -29,7 +29,12 @@ Note: You should **not** touch the HTML. You *may* change names, texts, and imag
 
 ## Images:
 
+### first style
 ![1st style](style1.png "First Style")
+
+### second style
 ![2nd style](style2.png "Second Style")
+
+### mobile styles
 ![1nd style mobile](style1-mobile.png "First Style Mobile")
 ![2nd style mobile](style2-mobile.png "Second Style Mobile")
